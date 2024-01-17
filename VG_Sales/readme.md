@@ -1,3 +1,4 @@
-Here is a picture of the dashboard - Vedio Game Sales
+Welcome to My PowerBI project!
+Here is a preview of the Dashboard for the Video game sales dataset
 
-![Alt text](VG_Sales/VGSales_ss.png?raw=true "VG Sales Dashboard")
+![Alt text](/VG_Sales/VGSales_ss.png?raw=true "Vedio Games Sales Dashboard")
